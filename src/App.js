@@ -1,5 +1,6 @@
 import "./App.css";
-import logo from "./images/rakib.png";
+// import logo from "./images/rakib.png";
+import logo from "./images/anowar.jpg";
 
 function App() {
   return (
