@@ -3,10 +3,10 @@
 }
 
 .App-logo {
-  height: 150px;
-  height: 150px;
-  border-radius: 15px;
-  object-fit: contain;
+  height: 250px;
+  height: 250px;
+  border-radius: 5px;
+  object-fit: cover;
   pointer-events: none;
 }
 .love {
